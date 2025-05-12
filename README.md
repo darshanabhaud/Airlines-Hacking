@@ -74,7 +74,8 @@ Internet connection (for installing dependencies and data fetching)
    ![Screenshot (14)](https://github.com/user-attachments/assets/fde03494-d482-463d-a554-5ac26e9f8a55)
 
 
-6.Source code
+6.Flight path visualization
+
    ![Screenshot (18)](https://github.com/user-attachments/assets/72a54334-2527-4604-b39d-b982caa3bf2b)
    
 
