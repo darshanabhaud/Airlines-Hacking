@@ -1,0 +1,5 @@
+40621D,19.0760,72.8777,450     # Real aircraft (Mumbai)
+40621D,19.1860,72.9777,455     # Real aircraft nearby
+40621D,28.7041,77.1025,440     # Cloned aircraft (Delhi!)
+40621D,28.8041,77.2025,435     # Cloned aircraft continues
+4840D6,19.4060,73.1777,460     # Separate aircraft
